@@ -2,7 +2,7 @@
 ![Forest-CD_300dpi](https://user-images.githubusercontent.com/73015485/188254575-e4c642fb-dbb2-4df8-ae38-74b4b38c6c84.png)
 
 
-The pytorch implementation for "Forest-CD: Forest Change Detection Network Based on VHR Images". The paper is published on IEEE Geoscience and Remote Sensing Letters.
+The pytorch implementation for "Forest-CD: Forest Change Detection Network Based on VHR Images". This paper is published on IEEE Geoscience and Remote Sensing Letters.
 
 https://ieeexplore.ieee.org/document/9815291
 
